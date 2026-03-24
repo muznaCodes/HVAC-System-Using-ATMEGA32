@@ -121,6 +121,7 @@ The MQ-2 sensor was **implemented and tested separately** and is **not included 
   <img width="900" height="595" alt="image" src="https://github.com/user-attachments/assets/d7b52918-c902-4105-90c0-9d8a492b12bc" />
   <img width="900" height="462" alt="image" src="https://github.com/user-attachments/assets/afba1655-d0f3-4a81-95ce-0ee98fc88972" />
 
+https://s8.ezgif.com/tmp/ezgif-8aa12d4dbb418d77.gif
   
 
 
